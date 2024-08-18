@@ -1,2 +1,2 @@
-WampServer
+Server (I prefered wampserver)
 PHP
