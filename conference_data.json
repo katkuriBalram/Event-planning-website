@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "conference_1",
+        "title": "Kashish Palace",
+        "rating": "5",
+        "phone_number": "tel:+918048073483",
+        "location": "https://www.google.com/maps/place/Kashish+Palace/@17.2776875,78.4071875,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcbbd26830901af:0x4f6d21a6f61546b2!8m2!3d17.2776875!4d78.4071875!16s%2Fg%2F11h4mqwfch?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOlgI4rCovGXRUyI7RsfxQL6ylcc3VyNY4vCH5I=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "conference_2",
+        "title": "SR Classic Convention",
+        "rating": "4.5",
+        "phone_number": "tel:+918048122273",
+        "location": "https://www.google.com/maps/place/SR+CLASSIC+CONVENTION/@17.2708352,78.3954283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcbbd398a81c247:0x7ac8bbf0ea3903a!8m2!3d17.2708352!4d78.3954283!16s%2Fg%2F11rttg07gh?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipO4cXLasznj4D5VutCPZQAMpU952tr3KJVTz8Ob=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "conference_3",
+        "title": "S S Convention",
+        "rating": "5",
+        "phone_number": "tel:+918048124270",
+        "location": "https://www.google.com/maps/place/S+S+Convention/@17.2787359,78.4070863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcbbc4a7561edf5:0x3dc622a0549fed1f!8m2!3d17.2787359!4d78.4070863!16s%2Fg%2F1hhgkv1c3?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPd52UC8DRir61JHaRwOEB4IsSDoOVdDnQWFQdM=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "conference_4",
+        "title": "Balaji Convention",
+        "rating": "5",
+        "phone_number": "tel:+918047249269",
+        "location": "https://www.google.com/maps/place/Balaji+convention+shamshabad/@17.273377,78.401204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcbbdd0f4d1b05f:0x9ff773b387e3b476!8m2!3d17.273377!4d78.401204!16s%2Fg%2F11frr3ck35?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPI48eEi6URWz2VZVE03BYOArKg4AYgq2rC9_zP=w2000-h1000-n-k-no"
+    }
+]

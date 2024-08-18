@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "sangeet_1",
+        "title": "Varsha Decorators",
+        "rating": "4.4",
+        "phone_number": "09391042103",
+        "location": "https://maps.google.com/maps?um=1&fb=1&gl=in&sa=X&geocode=KXU6caN7mMs7MYoEpT8L41Qz&daddr=9-5-129,+near+Chaitanya+Youth+Community+Hall,+Raji+Reddy+Nagar,+New+Santoshnagar,+Santosh+Nagar,+Hyderabad,+Telangana+500079&ved=2ahUKEwjSpNHcxuCGAxVN3IQAHSfFCYYQ48ADegUIABCnAQ",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipNEqO_ZXhWbONHay4Bpf2GL8_9mHxnMqa1D9d9e=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "sangeet_2",
+        "title": "Jhansi Events Organiser",
+        "rating": "4.8",
+        "phone_number": "09110507919",
+        "location": "https://maps.google.com/maps?um=1&fb=1&gl=in&sa=X&geocode=KWfD1lwGo8s7MelBuCMvPg4K&daddr=Raghava+Nagar,+Road+No.+4,+Main+line,+Hyderabad,+Telangana+500097&ved=2ahUKEwjSpNHcxuCGAxVN3IQAHSfFCYYQ48ADegUIABCyAQ",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPzP6biwueGRHON7bLAWDv8G82VGgfi9Guc11Dv=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "sangeet_3",
+        "title": "Pushpa Events",
+        "rating": "5.0",
+        "phone_number": "09553146578",
+        "location": "https://maps.google.com/maps?um=1&fb=1&gl=in&sa=X&geocode=KQlpk6R7mcs7MYSSzgNAL1qm&daddr=16-11-653,+beside+Pragathi+Scholars,+Gaddiannaram,+Hyderabad,+Telangana+500060&ved=2ahUKEwjSpNHcxuCGAxVN3IQAHSfFCYYQ48ADegUIABC-AQ",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOhfmA3To1lcMQhjQAN6AWSEZXCKfMwMFOSb5_c=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "sangeet_4",
+        "title": "laqsha event Hyderabad",
+        "rating": "4.8",
+        "phone_number": "08142623777",
+        "location": "https://maps.google.com/maps?um=1&fb=1&gl=in&sa=X&geocode=KTV_TYP6ocs7MbU8LvqmL3PJ&daddr=Plot+no+166,+FCI+Colony,+Venkataramana+Colony,+Vanasthalipuram,+Hyderabad,+Telangana+500070&ved=2ahUKEwjSpNHcxuCGAxVN3IQAHSfFCYYQ48ADegUIABDRAQ",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOziUevUjRGhFbHD5_6jWmc8DyjLt4a41x8ulrV=w2000-h1000-n-k-no"
+    }
+]

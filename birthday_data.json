@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "birthday_1",
+        "title": "NVR Banquets",
+        "rating": "3.7",
+        "phone_number": "tel:+918048070776",
+        "location": "https://www.google.com/maps/place/NVR+Banquets/@17.4796341,78.558604,17z/data=!3m2!4b1!5s0x3bcb9b805de03533:0x318333bcb206c10b!4m6!3m5!1s0x3bcb9b230c781c27:0x1c3180ca579649bb!8m2!3d17.4796341!4d78.558604!16s%2Fg%2F11fkq9p76b?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPWsI68P9yrz6DLdsmY4rG_jtMfmf64ZsKpDeLS=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "birthday_2",
+        "title": "Jenvi Conventions",
+        "rating": "5",
+        "phone_number": "tel:+918048127992",
+        "location": "https://www.google.com/maps/place/Jenvi+Conventions/@17.5632931,78.5305108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb85c2f6b52e09:0xdb8b38cf44c7cf3c!8m2!3d17.5632931!4d78.5305108!16s%2Fg%2F11r_v6lgs_?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipNQO6OmY1uGi7jsWBF97NUzbNNNFUQsxYrrF831=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "birthday_3",
+        "title": "Pista House Banquet Hall",
+        "rating": "4.6",
+        "phone_number": "tel:+918048073213",
+        "location": "https://www.google.com/maps/place/Pista+House+Kukatpally/@17.4980979,78.3902754,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91f15661a3eb:0xa2d7745824ba5f26!8m2!3d17.4980979!4d78.3902754!16s%2Fg%2F11fd6mxg0c?authuser=0&entry=ttu",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPDpPxB678lUI57GbiPMS8XnZVNAdP5mzAiVaT3=w2000-h1000-n-k-no"
+    },
+    {
+        "id" : "birthday_4",
+        "title": "Panda Event Planner",
+        "rating": "4.8",
+        "phone_number": "09581350494",
+        "location": "https://maps.google.com/maps?um=1&fb=1&gl=in&sa=X&geocode=KXd4Q1sGkcs7MQ-TCARI3EVW&daddr=8-3-615/1+Near+PRR+Law+College+Yellareddy+Guda,+Ameerpet,+Hyderabad,+Telangana+500073&ved=2ahUKEwiXwqiCx-CGAxUo5YQAHc1cEl0Q48ADegQIABB1",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipP8BkEUfJ--sd9Sm06eSFLYKcv9EYe5tIT-We0z=w2000-h1000-n-k-no"
+    }
+]
